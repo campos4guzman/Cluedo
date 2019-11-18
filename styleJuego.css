@@ -1,0 +1,8 @@
+#habitacion{
+    width: 200px;
+    height: 200px;
+}
+#celda{
+    background-color: burlywood;
+    background-image: url("colorCelda.png");
+}
